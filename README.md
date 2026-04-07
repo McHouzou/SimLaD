@@ -50,4 +50,4 @@ The simulator writes:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Citation
-If you use this code or the datasets in your work, please cite the associated publication.
+If you use this code or the datasets in your work, please cite the associated publication: https://arxiv.org/abs/2602.09737
