@@ -50,4 +50,4 @@ The simulator writes:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Citation
-If you use this code or the datasets in your work, please cite the associated publication: https://journals.aps.org/prapplied/abstract/10.1103/634w-nkwl
+If you use this code or the datasets in your work, please cite the associated publication: [Chouzouris, M., de Waal, L., Sanner, A., Lingua, A., Kammer, D. S., & Dias, M. A. (2026). How geometry tames disorder in lattice fracture. Physical Review Applied, 26(1), 014011.](https://journals.aps.org/prapplied/abstract/10.1103/634w-nkwl)
